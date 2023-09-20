@@ -1,0 +1,5 @@
+Comments in HTML:-
+
+In HTML we use comment to explain our code.
+
+content inside comment is not get rendered on webpage.
